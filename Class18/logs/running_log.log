@@ -3,3 +3,5 @@
 [2025-12-28 22:09:35,608: INFO: logging_python: Sucessfully executed]
 [2025-12-29 21:48:48,415: INFO: logging_python: Sucessfully executed]
 [2025-12-29 21:48:48,416: INFO: logging_python: Code has been executed]
+[2025-12-29 22:12:33,295: INFO: exception_python: now we will add the number instead of dividing]
+[2025-12-29 22:15:09,300: INFO: exception_python: division by zero]
