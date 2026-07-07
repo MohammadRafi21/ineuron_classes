@@ -281,7 +281,7 @@ Select Region, Continent, count(Name) as no_of_countries from country
 group by Region, Continent
 having Continent in('Asia','Africa','Europe') # in place of 'where' we are using 'having' because inside the groupe by we use 'having'
 order by continent;
-
+ 
 Select Region, Continent, count(Name) as no_of_countries from country
 group by Region, Continent
 having no_of_countries>10
